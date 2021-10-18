@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx",
-    "path": "/blog",
-    "result": {"data":{"allPost":{"nodes":[{"slug":"/belajar-async-await-dan-promise","title":"Belajar Async/Await dan Promise","date":"18.10.2021","excerpt":"","timeToRead":1,"description":null,"tags":null}]}},"pageContext":{"formatString":"DD.MM.YYYY"}},
-    "staticQueryHashes": ["2744905544","3090400250","318001574"]}
