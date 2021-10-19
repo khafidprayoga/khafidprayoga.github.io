@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx",
     "path": "/blog",
-    "result": {"data":{"allPost":{"nodes":[{"slug":"/async-await-and-promise","title":"Async/Await and Promise","date":"18.10.2021","excerpt":"Async/Await merupakan metode yang digunakan untuk menjalankan  piece of code \nsecara asinkronus, dalam artian kode baris tersebut tidak akan…","timeToRead":1,"description":null,"tags":null}]}},"pageContext":{"formatString":"DD.MM.YYYY"}},
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/promise","title":"Promise","date":"18.10.2021","excerpt":"Bob memiliki suatu janji dengan Alice untuk bertemu di kafe hari Rabu, tetapi Bob tidak\nmendapatkan pesan balasan konfirmasi dari Alice…","timeToRead":1,"description":null,"tags":[{"name":"Promise","slug":"promise"},{"name":"NodeJS","slug":"node-js"}]}]}},"pageContext":{"formatString":"DD.MM.YYYY"}},
     "staticQueryHashes": ["2744905544","3090400250","318001574"]}
