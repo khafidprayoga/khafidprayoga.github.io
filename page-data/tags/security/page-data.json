@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/security",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/jwt","title":"JWT (JSON Web Token)","date":"18.10.2021","excerpt":"Pendahuluan JSON Web Token (JWT) merupakan sebuah protokol standar (RFC 7519) yang mendefinisikan\ncara yang sederhana, dan bebas untuk…","timeToRead":1,"description":null,"tags":[{"name":"Security","slug":"security"},{"name":"NodeJS","slug":"node-js"},{"name":"JWT","slug":"jwt"}]}]}},"pageContext":{"slug":"security","name":"Security","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}
