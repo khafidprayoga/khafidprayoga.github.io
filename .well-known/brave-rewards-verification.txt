@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: khafidprayoga.github.io
+Token: 210df4d828d64a3a0eeef4f4787f7282231ae956e092054b23b295b683aaeb31
